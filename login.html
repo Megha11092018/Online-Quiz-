@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login - Advanced Quiz</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="quiz-container">
+    <h1>🔒 Quiz Login</h1>
+
+    <div id="login-box">
+      <input type="text" id="username" placeholder="Username">
+      <input type="password" id="password" placeholder="Password">
+      <button id="login-btn">Login</button>
+      <p id="login-feedback"></p>
+      <p>Don't have an account? <button id="register-btn">Register</button></p>
+    </div>
+
+    <div id="register-box" class="hidden">
+      <h3>Register</h3>
+      <input type="text" id="new-username" placeholder="Choose Username">
+      <input type="password" id="new-password" placeholder="Choose Password">
+      <button id="create-account-btn">Create Account</button>
+      <button id="back-login-btn">Back to Login</button>
+      <p id="register-feedback"></p>
+    </div>
+  </div>
+
+  <script src="login.js"></script>
+</body>
+</html>
