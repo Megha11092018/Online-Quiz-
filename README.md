@@ -6,7 +6,7 @@ A simple online quiz application built with **HTML, CSS, and JavaScript**.
 This project lets users answer multiple-choice questions, view instant feedback, and see their final score.  
 It’s designed for quick practice and fun learning.
 
-# 🎯 Advanced Online Quiz
+# 🎯  Online Quiz
 
 An interactive online quiz application with **login system, timer, immediate feedback, and score tracking**.  
 This project is built with **HTML, CSS, and JavaScript** and is designed for fun, learning, and testing knowledge.
